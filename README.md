@@ -2,6 +2,8 @@
 
 ## Deployed Link:
 
+https://cacevedo2011.github.io/workDayScheduler/
+
 ## Summary
 
 This is a simple calendar app that tells you your work day.  On this HTML app, I use the power of jQuery and MomentJs to make this app responsive to the user.  This has also features that makes the web application clean and responsive to the user.  Some of the features that are in this web app includes:
